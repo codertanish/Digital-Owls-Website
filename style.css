@@ -1,0 +1,43 @@
+b{
+    font-family: Comic Sans MS;
+    font-size: 20;
+    letter-spacing: 50px;
+    background-image: linear-gradient(to right, #314755 0%, #26a0da  51%, #314755  100%);
+    margin: 10px;
+    padding: 15px 45px;
+    text-align: center;
+    text-transform: uppercase;
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: white;            
+    border-radius: 10px;
+    display: block;
+      }
+
+      b:hover {
+        background-position: right center; /* change the direction of the change here */
+        color: #fff;
+        text-decoration: none;
+      }
+      p{
+        color: black;
+        font-family: Comic Sans MS;
+        font-size: 30;
+        background-image: linear-gradient(to right, #F09819 0%, #EDDE5D  51%, #F09819  100%);
+        margin: 10px;
+        padding: 15px 45px;
+        text-align: center;
+        text-transform: uppercase;
+        transition: 0.5s;
+        background-size: 200% auto;          
+        border-radius: 10px;
+        display: block;
+          }
+
+          p:hover {
+            background-position: right center; /* change the direction of the change here */
+            color: #fff;
+            text-decoration: none;
+          }
+         
+     
